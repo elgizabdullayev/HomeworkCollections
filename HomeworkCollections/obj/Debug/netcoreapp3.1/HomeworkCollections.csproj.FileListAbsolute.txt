@@ -1,0 +1,11 @@
+C:\Users\Elgiz\source\repos\HomeworkCollections\HomeworkCollections\bin\Debug\netcoreapp3.1\HomeworkCollections.exe
+C:\Users\Elgiz\source\repos\HomeworkCollections\HomeworkCollections\bin\Debug\netcoreapp3.1\HomeworkCollections.deps.json
+C:\Users\Elgiz\source\repos\HomeworkCollections\HomeworkCollections\bin\Debug\netcoreapp3.1\HomeworkCollections.runtimeconfig.json
+C:\Users\Elgiz\source\repos\HomeworkCollections\HomeworkCollections\bin\Debug\netcoreapp3.1\HomeworkCollections.runtimeconfig.dev.json
+C:\Users\Elgiz\source\repos\HomeworkCollections\HomeworkCollections\bin\Debug\netcoreapp3.1\HomeworkCollections.dll
+C:\Users\Elgiz\source\repos\HomeworkCollections\HomeworkCollections\bin\Debug\netcoreapp3.1\HomeworkCollections.pdb
+C:\Users\Elgiz\source\repos\HomeworkCollections\HomeworkCollections\obj\Debug\netcoreapp3.1\HomeworkCollections.csprojAssemblyReference.cache
+C:\Users\Elgiz\source\repos\HomeworkCollections\HomeworkCollections\obj\Debug\netcoreapp3.1\HomeworkCollections.AssemblyInfoInputs.cache
+C:\Users\Elgiz\source\repos\HomeworkCollections\HomeworkCollections\obj\Debug\netcoreapp3.1\HomeworkCollections.AssemblyInfo.cs
+C:\Users\Elgiz\source\repos\HomeworkCollections\HomeworkCollections\obj\Debug\netcoreapp3.1\HomeworkCollections.dll
+C:\Users\Elgiz\source\repos\HomeworkCollections\HomeworkCollections\obj\Debug\netcoreapp3.1\HomeworkCollections.pdb
